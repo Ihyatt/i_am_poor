@@ -1,16 +1,6 @@
 # i_am_poor
 
-FLutter challenge
 
-## Getting Started
+## commit 1: 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="557" alt="Screenshot 2023-06-09 at 1 49 59 PM" src="https://github.com/Ihyatt/i_am_poor/assets/11432315/44b21ee3-7714-452e-8e3e-18b3aea2d33b">
